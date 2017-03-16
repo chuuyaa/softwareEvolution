@@ -1,0 +1,400 @@
+
+ 
+  739  cd Downloads/
+  740  ls
+  741  vim hello.c 
+  742  vim Makefile 
+  743  mkdir amHellotest
+  744  cd amHellotest/
+  745  ls
+  746  cp ../hello/configure.ac .
+  747  ls ../hello
+  748  mkdir src
+  749  ls
+  750  cd src
+  751  vim hello.c
+  752  ls
+  753  vim Makefile
+  754  vim Makefile.am
+  755  cd ..
+  756  ls
+  757  cd src/
+  758  ls
+  759  cd ..
+  760  mkdir Makefile.am
+  761  rmdir Makefile.am/
+  762  vim Makefile.am
+  763  cd ..
+  764  ls
+  765  vim delete-files.py 
+  766  vim hello.py 
+  767  vim README
+  768  ls
+  769  mv README ~/amHellotest/
+  770  cd amHellotest/
+  771  ls
+  772  vim configure.ac
+  773  ls
+  774  vim Makefile.am 
+  775  cd src/
+  776  ls
+  777  vim hello.c 
+  778  cd ..
+  779  ls
+  780  autoreconf --install
+  781  sudo apt-get install autoconf
+  782  sudo rm /var/lib/apt/lists/lock
+  783  sudo apt-get install autoconf
+  784  ps aux | grep apt
+  785  kill processnumber
+  786  kill -9 processnumber
+  787  cd
+  788  sudo apt-get install autoconf
+  789  sudo dpkg --configure -a
+  790  sudo apt-get install autoconf
+  791  cd 
+  792  history
+  793  mkdir suhalib
+  794  cd suhalib/
+  795  ls
+  796  cd ..
+  797  mkdir suhaTest
+  798  cd suhaTest/
+  799  ls
+  800  vim hello.c
+  801  mkdir src
+  802  cd src
+  803  vim hello.c
+  804  vim Makefile.am
+  805  cd ..
+  806  vim Makefile.am
+  807  vim README
+  808  ls
+  809  autoreconf --install
+  810  vim configure.ac
+  811  autoreconf --install
+  812  ./configure
+  813  make 
+  814  vim src/hello.c 
+  815  make 
+  816  vim src/hello.c 
+  817  make 
+  818  ls
+  819  make distcheck
+  820  ls
+  821  cp hello-1.0.tar.gz ~/suhalib/
+  822  cp hello-1.0.tar.gz ../suhalib/
+  823  cd ..
+  824  cd suhalib/
+  825  ls
+  826  tar -xzf hello-1.0.tar.gz 
+  827  l
+  828  ls
+  829  ./configure hello-1.0
+  830  sudo apt-get install autoreconfig
+  831  hist
+  832  history
+  833  cd amHellotest/
+  834  autoreconf --install
+  835  sudo apt install autoconf
+  836  sudo apt-get update 
+  837  sudo apt install autoconf
+  838  autoreconf --install
+  839  ls
+  840  make 
+  841  vim configure
+  842  ./configure
+  843  ls
+  844  make 
+  845  ls
+  846  distcheck
+  847  distrbcheck
+  848  distrcheck
+  849  distrubcheck
+  850  distcheck
+  851  src/hello
+  852  ls
+  853  vim configure.ac
+  854  ls
+  855  make distcheck
+  856  ls
+  857  make distcheck
+  858  ./configure
+  859  make 
+  860  ls
+  861  ls src
+  862  cd src/
+  863  ls
+  864  vim Makefile.am 
+  865  cd ..
+  866  cd src/
+  867  lls
+  868  l
+  869  vim hello.c 
+  870  ls
+  871  vim Makefile.am
+  872  ls
+  873  cd ..
+  874  ls
+  875  vim Makefile.am 
+  876  vim configure.ac
+  877  cd src
+  878  ls
+  879  vim hello.c
+  880  ls
+  881  cd Downloads/
+  882  s
+  883  ls
+  884  cd hello\ world/
+  885  ls
+  886  make 
+  887  vim Makefile 
+  888  history
+  889  cd Downloads/
+  890  ls
+  891  cd try/
+  892  ls
+  893  make
+  894  cd 
+  895  sudo vim /var/log/kern.log
+  896  ls
+  897  cd Downloads/
+  898  ls
+  899  cd try/
+  900  ls
+  901  vim hello.
+  902  vim Makefile 
+  903  vim hello.
+  904  vim hello.c 
+  905  sudo insmod hello.ko
+  906  ls
+  907  cd 
+  908  sudo vim /var/log/kern.log
+  909  ls
+  910  cd Downloads/
+  911  ls
+  912  cd hello\ world/
+  913  ls
+  914  mkdir src
+  915  mv hello.c ~/Downloads/hello\ world/src/
+  916  mv Makefile ~/Downloads/hello\ world/src/
+  917  ls
+  918  cd src
+  919  ls
+  920  cd ..
+  921  ls
+  922  vim configure.ac
+  923  vim Makefile.am
+  924  ls
+  925  make 
+  926  ls
+  927  vim Makefile.am 
+  928  make
+  929  ls
+  930  cd src
+  931  ls
+  932  make
+  933  make 
+  934  AC_INIT([hello], [1.0], [chuuyaa31@gmail.com])
+  935  AM_INIT_AUTOMAKE([-Wall -Werror foreign])
+  936  AC_PROG_CC
+  937  AC_PROG_RANLIB
+  938  AM_PROG_AR
+  939  AC_CONFIG_HEADERS([config.h])
+  940  AC_CONFIG_FILES([
+  941  ])
+  942  AC_OUTPUT 
+  943  make
+  944  cd ..
+  945  cd try
+  946  ls
+  947  make
+  948  histor
+  949  history
+  950  cd
+  951  grep .txt
+  952  grep -R .txt
+  953  history
+  954  grep -R "autoreconf"
+  955  grep -R "sudo insmod"
+  956  grep -R "make distcheck"
+  957  ls
+  958  cd amHellotest/
+  959  ls
+  960  cd src/
+  961  ls
+  962  vim hello
+  963  vim hello.c
+  964  cd ..
+  965  mkdir kernelTest
+  966  mkdir src
+  967  cd src
+  968  cd 
+  969  cd kernelTest/
+  970  ls
+  971  mkdir src
+  972  ls
+  973  cd src
+  974  vim hello.c
+  975  ls
+  976  vim Makefile.am
+  977  ls
+  978  cd ..
+  979  ls
+  980  vim Makefile.am
+  981  ls
+  982  vim README
+  983  ls
+  984  vim configure.ac
+  985  ls
+  986  cd src
+  987  ls
+  988  cd ..
+  989  ./configure
+  990  ls
+  991  autoreconf --install
+  992  ls
+  993  cd configure
+  994  ls
+  995  vim configure
+  996  vim missing 
+  997  ls
+  998  cd src
+  999  ls
+ 1000  cd ..
+ 1001  make distcheck
+ 1002  make
+ 1003  ./configure
+ 1009  make distcheck
+ 1010  ls
+ 1011  cp hello-1.0.tar.gz try
+ 1012  ld
+ 1013  cd ..
+ 1014  ls
+ 1015  cd try
+ 1016  cd /try
+ 1017  cd ~/try
+ 1018  cd Downloads/
+ 1019  ls
+ 1020  cd try/
+ 1021  ls
+ 1022  cd ..
+ 1023  cd kernelTest/
+ 1024  ls
+ 1025  cd try
+ 1026  rm try 
+ 1027  ls
+ 1028  cp hello-1.0.tar.gz ~/Documents/
+ 1029  cd ..
+ 1030  cd Documents/
+ 1031  ls
+ 1032  mkdir kernTest
+ 1033  mv hello-1.0.tar.gz kernTest/
+ 1034  ls
+ 1035  cd kernTest/
+ 1036  ls
+ 1037  tar -xzf hello-1.0.tar.gz 
+ 1038  ls
+ 1039  cd hello-1.0/
+ 1040  ls
+ 1041  cd ..
+ 1042  ./configure hello-1.0
+ 1043  ls
+ 1044  cd hello-1.0/
+ 1045  ls
+ 1046  cd ..
+ 1047  ./configure
+ 1048  ./configure .
+ 1049  cd hello-1.0/
+ 1050  ./configure
+ 1051  make 
+ 1052  ls
+ 1053  cd src
+ 1054  ls
+ 1055  cd hell
+ 1056  sudo insmod
+ 1057  cd ..
+ 1058  ls
+ 1059  sudo insmod hello
+ 1060  sudo insmod hello.ko
+ 1061  sudo insmod
+ 1062  vim missing 
+ 1063  cd 
+ 1064  sudo vim /var/log/kern.log
+ 1065  ls
+ 1066  cd kernelTest/
+ 1067  ls
+ 1068  cd src
+ 1069  ls
+ 1070  vim Makefile
+ 1071  cd ..
+ 1072  mK
+ 1073  make
+ 1074  ls
+ 1075  cd src
+ 1076  ls
+ 1077  cd ..
+ 1078  cd
+ 1079  sudo vim /var/log/kern.log
+ 1080  ls
+ 1081  cd Downloads/
+ 1082  ls
+ 1083  cd lab_2.2/
+ 1084  ls
+ 1085  java -jar Greetings01.jar 
+ 1086  java -jar Greetings02.jar 
+ 1087  java -jar HelloWorld.jar 
+ 1088  vim HelloWorld.jar 
+ 1089  xampp
+ 1090  sudo /opt/lampp/htdocs/ start
+ 1091  sudo /opt/lampp/ start
+ 1092  sudo /opt/lampp start
+ 1093  sudo /opt/lampp/lampp start
+ 1094  php --v
+ 1095  php --version
+ 1096  sudo /opt/lampp/lampp start
+ 1097  lsmod
+ 1098  ls /usr/include/sys/
+ 1099  cd /usr/include/sys/
+ 1100  cd /usr/include/sys
+ 1101  vim /usr/include/sys
+ 1102  vim /usr/include/sys/syscall.h
+ 1103  ls /usr/include/sys
+ 1104  sudo ls /usr/include/sys
+ 1105  mkdir syscallLink
+ 1106  cd syscallLink/
+ 1107  ls
+ 1108  vim interceptor.c
+ 1109  vim Makefile
+ 1110  ls
+ 1111  make
+ 1112  ls
+ 1113  vim Makefile 
+ 1114  make
+ 1115  ls
+ 1116  vim Makefile
+ 1117  make
+ 1118  vim Makefile 
+ 1119  make
+ 1120  cd 
+ 1121  cd Desktop/
+ 1122  ls
+ 1123  mkdir testAgain
+ 1124  ls
+ 1125  mv hello.c ~/Desktop/testAgain/
+ 1126  mv Makefile ~/Desktop/testAgain/
+ 1127  cd testAgain/
+ 1128  ls
+ 1129  make
+ 1130  sudo insmod hello.ko 
+ 1131  ls
+ 1132  history
+ 1133  ls
+ 1134  cd
+ 1135  cd syscallLink/
+ 1136  ls
+ 1137  vim Makefile 
+ 1138  vim interceptor.c 
+ 1139  make
+ 1140  cd..
+ 1141  history > history3.txt
